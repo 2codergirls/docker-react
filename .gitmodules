@@ -1,0 +1,3 @@
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:ahfarmer/calculator.git
